@@ -94,11 +94,9 @@ Click to slide [PresentHw4](https://github.com/Nareekan789/BSC_DPDM23/blob/main/
 + นายศตรวรรษ มูลสันเที๊ยะ
 
 ข้อมูล พฤติกรรมการใช้สื่อเพื่อการติดตามข่าวออนไลน์ของคนแต่ละช่วงวัย[องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย]
-
 + Slide นำเสนอข้อมูล วันที่ 26 feb 2567 [SlidePresentation](https://www.canva.com/design/DAF9xVROj5g/MU3QyOEiNPy-GS3r-zhv9w/view?utm_content=DAF9xVROj5g&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 + นำเสนอก่อนพรี วันที่ 4 Mar 2567 
 + นำเสนอวันจริง วันที่ 6 Mar 2567  [Final_Project_Presentation](https://github.com/Nareekan789/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8C%20final%20Project%20.pdf)
-
 + Code [FinalProject](https://github.com/Nareekan789/BSC_DPDM23/blob/main/Final_Project.ipynb)
 
 # รวมไฟล์ 
