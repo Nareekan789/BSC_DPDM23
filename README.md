@@ -1,7 +1,7 @@
-#BSC_DPDM23
+# BSC_DPDM23
 
 ☆ Data Preprocessing and Data Mining 2023
 
-🎀 Kwansawan Thongprasert (นางสาวขวัญสวรรค์ ทองประเสริฐ) 🎀
+ 👩🏼‍🦰 Nareekan Panyarak (นรีกานต์ ปัญญารักษ์) 
 
-🎀 Student No. 643020498-9 🎀
+Student No. 643020505-8 
