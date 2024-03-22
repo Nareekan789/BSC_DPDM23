@@ -1,10 +1,10 @@
 # BSC_DPDM23
 
-☆ Data Preprocessing and Data Mining 2023
+☆ Data Preprocessing and Data Mining 2023 ☆
 
- 👉 Nareekan Panyarak (นรีกานต์ ปัญญารักษ์) 👈
+ ☆ Nareekan Panyarak (นรีกานต์ ปัญญารักษ์) ☆
 
-     👉 Student No. 643020505-8 👈
+     ☆ Student No. 643020505-8 ☆
 
 
 # Score 💯
@@ -80,7 +80,8 @@ Click to slide [PresentHw4](https://github.com/Nareekan789/BSC_DPDM23/blob/main/
 
 # Midterm Exam 
   **click to** [MidtermExam](https://github.com/Nareekan789/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
-# Final Project :information_desk_person:
+
+# Final Project :
 **Click to** [Link data](https://data.go.th/en/dataset/consumer_insight)
 
 **สมาชิกกลุ่มทองประเสริฐ และ ท้อ** 
