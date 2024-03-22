@@ -1,2 +1,7 @@
-# BSC_DPDM23
-ไสลด์Homework1-> https://cdn.fbsbx.com/v/t59.2708-21/419784588_344726401694271_8807566400615621144_n.pdf/Marketbasket_compressed.pdf?_nc_cat=105&ccb=1-7&_nc_sid=2b0e22&_nc_ohc=xChPKGd2xhEAX-5jh8B&_nc_ht=cdn.fbsbx.com&oh=03_AdTKBMYgy7iTn3V9Z8QOcbY4ftfHdrBGcidSWpRoEQR9jw&oe=65A69AF2&dl=1
+#BSC_DPDM23
+
+☆ Data Preprocessing and Data Mining 2023
+
+🎀 Kwansawan Thongprasert (นางสาวขวัญสวรรค์ ทองประเสริฐ) 🎀
+
+🎀 Student No. 643020498-9 🎀
