@@ -8,12 +8,12 @@
 
 
 # Score 💯
-Midterm (data Prepocessing ปฏิบัติ [เดียว]) = 20%
-Final ( ทฤษฏี data mining [เดียว]) = 20%
-Project (data processing + data mining(กลุ่ม)) = 30%
-Homework (แบ่งกลุ่มใหม่ทุกครั้ง) = 20%
-Quiz (เดี่ยว ถามในห้อง) = 5%
-GitHub(ตวามเรียบร้อยเเละสวยงาม) = 5% Final Score = Score * %attendance
++ Midterm (data Prepocessing ปฏิบัติ [เดียว]) = 20%
++ Final ( ทฤษฏี data mining [เดียว]) = 20%
++ Project (data processing + data mining(กลุ่ม)) = 30%
++ Homework (แบ่งกลุ่มใหม่ทุกครั้ง) = 20%
++ Quiz (เดี่ยว ถามในห้อง) = 5%
++ GitHub(ตวามเรียบร้อยเเละสวยงาม) = 5% Final Score = Score * %attendance
 
 # Homeworkทั้งหมด 📝
 + Hw1 Frequent Items (Association Rules)
@@ -23,20 +23,27 @@ GitHub(ตวามเรียบร้อยเเละสวยงาม) = 
 + Hw5 Neural network (Perceptron)
 
 ### Homework1 Frequent Items
+
 Click to code [CodeHw1](https://github.com/Nareekan789/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
+
 Click to slide presentation [PresentHw1](https://github.com/Nareekan789/BSC_DPDM23/blob/main/HW1_Marketbasket_compressed.pdf)
 **สมาชิก กลุ่ม ทองประเสริฐ**  
 + นางสาวขวัญสวรรค์ ทองประเสริฐ   643020498-9
 + นางสาวนริศรา โยธาจันทร์        643020504-0
 + นางสาวนรีกานต์ ปัญญารักษ์      643020505-8
 + นางสาวพิมพิกา ยอดศรี          643020511-3
+
 ### Homework2   
+
 Click to  [Homework2](https://github.com/Nareekan789/BSC_DPDM23/blob/main/Homework-2.pdf) 
 วาดมือDecision tree
 
 ### Homework3 Decision Tree parameter
+
 Group_Decision Tree(min_sample_leaf,max_feature) 
+
 Click to code [CodeHw3](https://github.com/Nareekan789/BSC_DPDM23/blob/9af4bd66bbae8fa883e74c7433e6aa385d43d615/Classification.ipynb)
+
 Click to slide presentation[PresentHw3](https://github.com/Nareekan789/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8CHomework3.pdf)
 **สมาชิก Group ทองประเสริฐ + I hate monday** 
 + นางสาวขวัญสวรรค์ ทองประเสริฐ   643020498-9
@@ -51,7 +58,9 @@ Click to slide presentation[PresentHw3](https://github.com/Nareekan789/BSC_DPDM2
 ### Homework4 DecisionTree Parameter handwritting
 การวาดต้นไม้ตัดสินใจโดยมือ โดยใช้parameter คือ 
 + Min_sample_leaf และ max_feature
+
 Click to handwritting  [Hw4](https://github.com/Nareekan789/BSC_DPDM23/blob/main/Hw4.pdf)
+
 Click to slide [PresentHw4](https://github.com/Nareekan789/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8CHomework4.pdf)
 **สมาชิก Group ทองประเสริฐ + I hate monday** 
 + นางสาวขวัญสวรรค์ ทองประเสริฐ   643020498-9
