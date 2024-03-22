@@ -27,6 +27,7 @@
 Click to code [CodeHw1](https://github.com/Nareekan789/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
 
 Click to slide presentation [PresentHw1](https://github.com/Nareekan789/BSC_DPDM23/blob/main/HW1_Marketbasket_compressed.pdf)
+
 **สมาชิก กลุ่ม ทองประเสริฐ**  
 + นางสาวขวัญสวรรค์ ทองประเสริฐ   643020498-9
 + นางสาวนริศรา โยธาจันทร์        643020504-0
@@ -45,6 +46,7 @@ Group_Decision Tree(min_sample_leaf,max_feature)
 Click to code [CodeHw3](https://github.com/Nareekan789/BSC_DPDM23/blob/9af4bd66bbae8fa883e74c7433e6aa385d43d615/Classification.ipynb)
 
 Click to slide presentation[PresentHw3](https://github.com/Nareekan789/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8CHomework3.pdf)
+
 **สมาชิก Group ทองประเสริฐ + I hate monday** 
 + นางสาวขวัญสวรรค์ ทองประเสริฐ   643020498-9
 + นางสาวนริศรา โยธาจันทร์        643020504-0
@@ -62,6 +64,7 @@ Click to slide presentation[PresentHw3](https://github.com/Nareekan789/BSC_DPDM2
 Click to handwritting  [Hw4](https://github.com/Nareekan789/BSC_DPDM23/blob/main/Hw4.pdf)
 
 Click to slide [PresentHw4](https://github.com/Nareekan789/BSC_DPDM23/blob/main/%E0%B8%AA%E0%B9%84%E0%B8%A5%E0%B8%94%E0%B9%8CHomework4.pdf)
+
 **สมาชิก Group ทองประเสริฐ + I hate monday** 
 + นางสาวขวัญสวรรค์ ทองประเสริฐ   643020498-9
 + นางสาวนริศรา โยธาจันทร์        643020504-0
@@ -79,6 +82,7 @@ Click to slide [PresentHw4](https://github.com/Nareekan789/BSC_DPDM23/blob/main/
   **click to** [MidtermExam](https://github.com/Nareekan789/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
 # Final Project :information_desk_person:
 **Click to** [Link data](https://data.go.th/en/dataset/consumer_insight)
+
 **สมาชิกกลุ่มทองประเสริฐ และ ท้อ** 
 + นางสาวขวัญสวรรค์ ทองประเสริฐ
 + นางสาวนริศรา โยธาจันทร์
