@@ -84,7 +84,7 @@ Click to slide [PresentHw4](https://github.com/Nareekan789/BSC_DPDM23/blob/main/
 # Final Project :
 **Click to** [Link data](https://data.go.th/en/dataset/consumer_insight)
 
-**สมาชิกกลุ่มทองประเสริฐ และ ท้อ** 
+**สมาชิกกลุ่มทองประเสริฐ และ กลุ้ม** 
 + นางสาวขวัญสวรรค์ ทองประเสริฐ
 + นางสาวนริศรา โยธาจันทร์
 + นางสาวนรีกานต์ ปัญญารักษ์
